@@ -1,2 +1,2 @@
 # odin-recipes
-A recipe website to help beginner cook
+A recipe website to help beginners cook
